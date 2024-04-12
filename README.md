@@ -21,6 +21,9 @@ call the function
 end the program
 ## Program:
 ```
+#python program to circulate the n variables using function concept
+#developed by : Sai Sanjiv R
+#register no. : 212223230179
 def circulate():
     circul=l[n:]+l[:n]
     print("After circulating the values are:", circul)
