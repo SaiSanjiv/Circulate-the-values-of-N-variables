@@ -32,7 +32,8 @@ n=int(input())
 ```
 
 ## Output:
-![image](https://github.com/SaiSanjiv/Circulate-the-values-of-N-variables/assets/151772975/5c3d06ed-6474-4459-a2c1-9b5653074833)
+![image](https://github.com/SaiSanjiv/Circulate-the-values-of-N-variables/assets/151772975/9d4d9874-0f34-41e8-b02f-09a90a3fa985)
+
 
 
 
